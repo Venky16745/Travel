@@ -1,0 +1,10 @@
+
+
+body .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl{
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.benifitslist{
+  list-style-type: none;
+  
+}

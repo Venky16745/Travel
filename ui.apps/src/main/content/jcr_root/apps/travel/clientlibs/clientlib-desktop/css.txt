@@ -1,0 +1,9 @@
+#base=css
+  all.css
+  bootstrap-icons.css
+  animate.css
+  owl.carousel.css
+  tempusdominus-bootstrap-4.css
+  bootstrap.css
+  style.css
+  test.css
